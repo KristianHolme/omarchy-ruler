@@ -4,6 +4,10 @@ An [Omarchy](https://omarchy.org/) shell plugin that puts a ruler on the screen.
 
 Plugin id: `kristianholme.ruler`
 
+## Demo
+
+https://github.com/user-attachments/assets/5e3a3650-3588-455e-93b4-469bcec619ed
+
 ## Install
 
 ```bash
