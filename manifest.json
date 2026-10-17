@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "kristianholme.ruler",
+  "name": "Ruler",
+  "version": "0.1.0",
+  "author": "KristianHolme",
+  "license": "MIT",
+  "description": "On-screen ruler you can move and rotate to measure things in centimetres or pixels.",
+  "kinds": [
+    "overlay"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "overlay": "Ruler.qml"
+  }
+}
